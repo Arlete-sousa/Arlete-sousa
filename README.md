@@ -3,7 +3,5 @@
 
 ### Hii 👋
 
-- 🔭 I’m currently working on Instituto PROA
-- 🌱 I’m currently learning JAVA,JVA SCRIPT, HTML, CSS
-- 🤔 I’m looking for help with JAVA,JAVA SCRIPT, HTML, CSS
-- 📫 How to reach me: Arletebarbosa2000@gmail.com
+### My name is Arlete, I am 20 years old and I live in São Paulo-Brazil.
+### I am currently learning to develop and program in Java at the PROA Institute.
