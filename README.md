@@ -1,4 +1,4 @@
-![git](https://user-images.githubusercontent.com/81167437/113142230-07e4f480-9201-11eb-915a-9fd43045492e.jpg)
+![qq fw](https://user-images.githubusercontent.com/81167437/113143036-08ca5600-9202-11eb-9b19-862c8dc60417.png)
 
 ### Hii 👋
 
