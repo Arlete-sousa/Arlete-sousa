@@ -3,5 +3,6 @@
 
 
 
-## OLÁ
-## 🔵Meu nome é Arlete,sou estudante no Instituto PROA, onde recebo formação como  Web Developer e Desenvolvedora em Java.
+## 🔵¡Hola! ¿Qué tal? (Essa é minha saldação em espanhol 😅).
+
+## Meu nome é Arlete, sou estudante no Instituto PROA, onde recebo formação para atuar como Desenvolvedora Júnior.
