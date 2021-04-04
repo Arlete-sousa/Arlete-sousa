@@ -1,4 +1,5 @@
-![Uploading tecnologia-post-linkedIn.jpng…]()
+![Uploading tecnologia-post-linkedInpng.png…]()
+
 
 
 
