@@ -3,8 +3,5 @@
 
 
 
-
-### Hii 👋
-
-### My name is Arlete, I am 20 years old and I live in São Paulo-Brazil.
-### I am currently learning to develop and program in Java at the PROA Institute.
+## OLÁ
+## 🔵Meu nome é Arlete,sou estudante no Instituto PROA, onde recebo formação como  Web Developer e Desenvolvedora em Java.
