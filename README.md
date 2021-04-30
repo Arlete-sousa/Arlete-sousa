@@ -7,4 +7,4 @@
 
 ## 🔵¡Hola! ¿Qué tal? (Essa é minha saudação em espanhol😅).
 
-## Meu nome é Arlete, sou estudante no Instituto PROA, onde recebo formação para atuar como Desenvolvedora Júnior.
+## Meu nome é Arlete, sou estudante no Instituto PROA, onde estudo Tecnologia e Programação, e recebo certificação do Senac para atuar como Desenvolvedora.
